@@ -36,7 +36,7 @@ Data Visualization & Storytelling capstone, SDAIA Academy.
 تركي العتيبي
 محمد البلالي
 
-SDAIA GitHub: add the link provided in the course brief.
+SDAIA GitHub: (https://github.com/SDAIAAcademy)
 
 ## Rebuild the deck
 ```bash
